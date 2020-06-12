@@ -7,4 +7,7 @@ making the changes now at 4:44pm
 
 public static class testclass{
 
+
+public testclass(){}
+
 }
